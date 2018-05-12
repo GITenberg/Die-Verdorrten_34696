@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37172'
     url: http://www.gutenberg.org/2009/agents/37172
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34696#Die-Verdorrten
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-12-19'
 gutenberg_type: Text
